@@ -1,0 +1,32 @@
+/* ------------------------------------- GENERAL -------------------------------------------- */
+* {
+  margin:0;
+  padding:0;
+}
+/* HEADER SECTION */
+.main-header {
+  padding-top:150px;
+}
+.main-img {
+  margin-top:200px;
+}
+
+.logo {
+  height:120px;
+  width:120px;
+}
+
+/* NAVBAR */
+.navbar {
+  position:sticky !important;
+}
+
+.main {
+  height:100vh;
+}
+/* ------------------------------------- INDEX --------------------------------------------- */
+
+/* ------------------------------------- ACCESS -------------------------------------------- */
+.job-bg-img {
+  width:80%;
+}
